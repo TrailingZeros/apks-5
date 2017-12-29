@@ -1498,3 +1498,52 @@
 /Root/androidapps/Microsoft Remote Desktop Beta_8.1.11.121.apk
 /Root/androidapps/Microsoft Remote Desktop Beta_8.1.13.131.apk
 /Root/androidapps/Microsoft Remote Desktop Beta_8.1.14.138.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.15.142.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.16.149.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.17.155.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.18.159.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.19.179.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.19.187.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.20.200.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.21.207.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.22.246.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.23.254.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.24.287.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.25.325.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.26.340.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.27.344.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.28.4.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.7.66.apk
+/Root/androidapps/Microsoft Remote Desktop Beta_8.1.8.82.apk
+/Root/androidapps/Microsoft Remote Desktop_8.0.11.25133.apk
+/Root/androidapps/Microsoft Remote Desktop_8.0.12.25288.apk
+/Root/androidapps/Microsoft Remote Desktop_8.0.3.24331.apk
+/Root/androidapps/Microsoft Remote Desktop_8.0.4.24341.apk
+/Root/androidapps/Microsoft Remote Desktop_8.1.13.22.apk
+/Root/androidapps/Microsoft Remote Desktop_8.1.18.47.apk
+/Root/androidapps/Microsoft Remote Desktop_8.1.19.72.apk
+/Root/androidapps/Microsoft Remote Desktop_8.1.31.44.apk
+/Root/androidapps/Microsoft Remote Desktop_8.1.36.124.apk
+/Root/androidapps/Microsoft アカウント_1.0.0103.1115.apk
+/Root/androidapps/Miitomo_1.1.2.apk
+/Root/androidapps/Miitomo_1.1.3.apk
+/Root/androidapps/MikuMikuBench_2.1.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.10.5.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.0.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.0.b1.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.0.b10.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.0.b11.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.0.b12.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.0.b13.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.0.b14.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.0.b2.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.0.b3.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.0.b4.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.0.b5.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.0.b6.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.0.b7.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.0.b8.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.0.b9.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.1.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.11.1.b2.apk
+/Root/androidapps/Minecraft - Pocket Edition_0.12.1.apk
