@@ -1398,3 +1398,53 @@
 /Root/androidapps/MC-BLOCKER_1.0.apk
 /Root/androidapps/MCPE Master_1.2.19.apk
 /Root/androidapps/MCPE Master_1.2.20.apk
+/Root/androidapps/MCPE Master_1.2.21.apk
+/Root/androidapps/MCPE Master_1.2.22.apk
+/Root/androidapps/MCPE Master_1.2.25.apk
+/Root/androidapps/MCPE Master_1.2.26.apk
+/Root/androidapps/MCPE Master_1.2.27.apk
+/Root/androidapps/MCPE Master_1.2.28.apk
+/Root/androidapps/MCPE Master_1.2.32.apk
+/Root/androidapps/MCPE Master_1.2.33.apk
+/Root/androidapps/MCPE ServerList Editor_1.0.apk
+/Root/androidapps/MCPE Skin Changer CONVERTER_compatible with 0.4.1~.apk
+/Root/androidapps/MCPE Skin Changer REJECTS_compatible with 0.4.1~.apk
+/Root/androidapps/MCPE Skin Changer_0.1.1.apk
+/Root/androidapps/MCPE Skin Changer_0.2.0.apk
+/Root/androidapps/MCPE Skin Changer_0.2.1.apk
+/Root/androidapps/MCPE Skin Changer_0.2.2.apk
+/Root/androidapps/MCPE Skin Changer_0.4.1.apk
+/Root/androidapps/MCPE Skin Changer_0.4.2.apk
+/Root/androidapps/MCPE Skin Changer_0.5.0.apk
+/Root/androidapps/MCPEマスター_1.2.34.apk
+/Root/androidapps/MCPEマスター_1.2.35.apk
+/Root/androidapps/MCPEマスター_1.2.37.apk
+/Root/androidapps/MCPEマスター_1.2.39.apk
+/Root/androidapps/MCPEマスター_1.2.40.apk
+/Root/androidapps/MCPEマスター_1.2.42.apk
+/Root/androidapps/MCPEマスター_1.2.44.apk
+/Root/androidapps/MCPEマスター_1.2.48.apk
+/Root/androidapps/MCPEマスター_1.2.51.apk
+/Root/androidapps/MCPEマスター_1.2.52.apk
+/Root/androidapps/MCPEマスター_1.2.53.apk
+/Root/androidapps/MCPEマスター_1.2.54.apk
+/Root/androidapps/MCPEマスター_1.3.12.apk
+/Root/androidapps/MCPEマスター_1.3.13.apk
+/Root/androidapps/MCPEマスター_1.3.15.apk
+/Root/androidapps/MCPEマスター_1.3.2.apk
+/Root/androidapps/MCPEマスター_1.3.5.apk
+/Root/androidapps/MCPEマスター_1.3.9.apk
+/Root/androidapps/MCSM_1.15.apk
+/Root/androidapps/MConsole_1.06.apk
+/Root/androidapps/MEGA superceded_2.6.8.superceded.apk
+/Root/androidapps/MEGA_2.2.2.apk
+/Root/androidapps/MEGA_2.2.3.apk
+/Root/androidapps/MEGA_2.3.1.apk
+/Root/androidapps/MEGA_2.3.2.apk
+/Root/androidapps/MEGA_2.3.3.apk
+/Root/androidapps/MEGA_2.3.apk
+/Root/androidapps/MEGA_2.5.1.apk
+/Root/androidapps/MEGA_2.5.apk
+/Root/androidapps/MEGA_2.6.3.apk
+/Root/androidapps/MEGA_2.6.4.apk
+/Root/androidapps/MEGA_2.6.5.apk
